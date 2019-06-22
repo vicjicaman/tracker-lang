@@ -1,11 +1,11 @@
 {
-  "name": "@nebulario/app-lang",
+  "name": "@nebulario/tracker-lang",
   "version": "1.0.10-master",
   "description": "Lang components and utilities",
   "main": "./dist/index.js",
-  "repository": "github.com:vicjicaman/app-form.git",
-  "author": "Victor Jimenez <vic@nebular.io>",
-  "license": "UNLICENSED",
+  "repository": "github.com:vicjicaman/tracker-lang.git",
+  "author": "Victor Jimenez <vic@repoflow.com>",
+  "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^7.2.3",
     "babel-cli": "^6.26.0",
