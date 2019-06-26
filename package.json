@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/tracker-lang",
-  "version": "1.70.0-master",
+  "version": "1.70.0-release-pkg-app-prod",
   "description": "Lang components and utilities",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/tracker-lang.git",
